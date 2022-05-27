@@ -1,0 +1,1 @@
+berlin52; 10; NN; 10000; OX; 85; Inwersja; 15; 2OPT; 1; DROGA; 7544.365234375
